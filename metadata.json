@@ -1,0 +1,6 @@
+{
+  "name": "SS BRAND — Online Shopping Store",
+  "description": "Curated menswear, smart electronics, footwear, and studio audio with instant WhatsApp ordering and nationwide Cash on Delivery across Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
